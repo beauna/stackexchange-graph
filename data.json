@@ -1,0 +1,12 @@
+{
+  "names": ["Jon Skeet", "Gordon Linoff", "VonC", "BalusC", "Darin Dimitrov", "Marc Gravell", "CommonsWare", "Martijn Pieters", "Hans Passant", "T.J. Crowder", "Greg Hewgill", "SLaks", "Quentin", "paxdiablo", "Alex Martelli", "Christian C. SalvadÃ³", "Mark Byers", "unutbu", "Felix Kling", "Ignacio Vazquez-Abrams", "Sergey Kalinichenko", "marc_s", "JaredPar", "Jonathan Leffler", "akrun", "anubhava", "CB Bailey", "Guffa", "JB Nizet", "Stephen C", "BoltClock", "jezrael", "Eric Lippert", "Nick Craver", "Gumbo", "Barmar", "cletus", "jfriend00", "David Heffernan", "Bozho", "Daniel Roseman", "Pascal Thivent", "Reed Copsey", "e-satis", "Bergi", "bobince", "Peter Lawrey", "nickf", "tvanfosson", "Martin R"],
+
+  "scores": [1249533, 1096335, 1029931, 983878, 953450, 917213, 902334, 877415, 868529, 866065, 817833, 793815, 789491, 764927, 754535, 715999, 711465, 701225, 696215, 692369, 671589, 669997, 667891, 661413, 654042, 653290, 639620, 635627, 628630, 626004, 622987, 612566, 609233, 591436, 589278, 585677, 574931, 571537, 569636, 550584, 536901, 533367, 519271, 510372, 503772, 495437, 495306, 495296, 486800, 484252],
+
+  "years": [12, 9, 12, 11, 12, 12, 11, 11, 12, 11, 12, 12, 12, 12, 11, 12, 12, 11, 11, 12, 10, 12, 12, 12, 6, 10, 12, 12, 10, 11, 11, 7, 12, 12, 12, 8, 12, 9, 11, 11, 11, 12, 12, 12, 9, 12, 12, 12, 12, 9],
+
+  "months": [6, 5, 2, 6, 7, 6, 10, 11, 6, 7, 8, 5, 6, 6, 11, 7, 2, 5, 4, 6, 11, 6, 6, 6, 9, 3, 6, 0, 2, 8, 11, 5, 0, 6, 3, 9, 6, 9, 7, 5, 11, 0, 0, 6, 4, 6, 2, 6, 6, 2],
+
+  "days": [4560, 3435, 4440, 4195, 4590, 4560, 4315, 4345, 4560, 4225, 4620, 4530, 4560, 4560, 4345, 4590, 4440, 4165, 4135, 4560, 3980, 4560, 4560, 4560, 2460, 3740, 4560, 4380, 3710, 4255, 4345, 2705, 4380, 4560, 4470, 3190, 4560, 3555, 4225, 4165, 4345, 4380, 4380, 4560, 3405, 4560, 4440, 4560, 4560, 3345]
+
+}
