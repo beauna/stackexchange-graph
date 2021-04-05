@@ -28,6 +28,10 @@ for (i, x) in zip(dYears, dMonths):
     sumDays.append(i+x)
 # print(sumDays)
 
+#################################################################
+#   All of these lists have been added to the data.json file!   #
+#################################################################
+
 # Pandas reading the data.json file.
 df = pd.read_json('data.json')
 
